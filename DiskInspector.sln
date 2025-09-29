@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskInspectorApp", "DiskInspector\DiskInspectorApp.csproj", "{254745C3-377E-4734-B22E-60FCC26C97DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254745C3-377E-4734-B22E-60FCC26C97DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254745C3-377E-4734-B22E-60FCC26C97DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254745C3-377E-4734-B22E-60FCC26C97DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254745C3-377E-4734-B22E-60FCC26C97DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C808E0AB-9517-47B5-B840-72FB48C27447}
+	EndGlobalSection
+EndGlobal
